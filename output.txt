@@ -1,0 +1,8 @@
+
+Player: Reddy
+
+Games Played: 5
+
+Total Score: 250
+
+Average Score: 50.0
